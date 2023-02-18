@@ -1,0 +1,23 @@
+{
+  "name": "unit-testing",
+  "version": "1.0.0",
+  "description": "Assignment part of the course in DevOps.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest ./getFacebookFriends.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lagerqvr/unit-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lagerqvr/unit-testing/issues"
+  },
+  "homepage": "https://github.com/lagerqvr/unit-testing#readme",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
