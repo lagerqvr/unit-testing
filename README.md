@@ -1,6 +1,5 @@
 # unit-testing
-My Project
-This is a project that contains some JavaScript code that needs to be tested. The tests are written with Jest, and can be run with the Maven exec plugin.
+This is a mockup project that contains some JavaScript code that needs to be tested. The tests are written with Jest, and can be run with the Maven exec plugin.
 
 Getting started
 To get started, make sure that you have Node.js and Maven installed on your machine.
